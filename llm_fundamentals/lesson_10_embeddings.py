@@ -121,3 +121,6 @@ print(
 print("Number of embeddings:", len(embeddings))
 print("Dimensions of first embedding:", len(embeddings[0]))
 print("First 5 values:", embeddings[0][:5])
+
+
+

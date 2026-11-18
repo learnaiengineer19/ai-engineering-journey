@@ -22,3 +22,5 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+
+vector_databases/chroma_data/
