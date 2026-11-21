@@ -52,6 +52,10 @@ from advanced_rag.hybrid_reranker import (
     rerank_documents
 )
 
+from advanced_rag.evaluation.citation_validator import (
+    validate_citations
+)
+
 LLM_MODEL = "qwen2:7b"
 
 # --------------------------------------------------
