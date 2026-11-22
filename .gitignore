@@ -24,3 +24,4 @@ __pycache__/
 .ruff_cache/
 
 vector_databases/chroma_data/
+tool_calling/claims.db
