@@ -25,3 +25,5 @@ __pycache__/
 
 vector_databases/chroma_data/
 tool_calling/claims.db
+agents/agent_checkpoint.json
+agents/agent_checkpoint.tmp
