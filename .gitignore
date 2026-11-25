@@ -27,3 +27,9 @@ vector_databases/chroma_data/
 tool_calling/claims.db
 agents/agent_checkpoint.json
 agents/agent_checkpoint.tmp
+
+# Local generated files
+langchain_lessons/insurance_report.json
+langchain_lessons/model_comparison_result.json
+
+agents/capstone/investigation_checkpoint.json
