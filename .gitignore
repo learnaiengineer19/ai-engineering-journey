@@ -33,3 +33,24 @@ langchain_lessons/insurance_report.json
 langchain_lessons/model_comparison_result.json
 
 agents/capstone/investigation_checkpoint.json
+
+langgraph_lessons/checkpoints.sqlite
+langgraph_lessons/checkpoints.sqlite-*
+
+langgraph_lessons/approval_checkpoints.sqlite
+langgraph_lessons/approval_checkpoints.sqlite-*
+
+
+# LangGraph checkpoint databases
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+
+# Local secrets
+.env

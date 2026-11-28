@@ -255,6 +255,7 @@ else:
                 result = tool_registry[name].invoke(
                     tool_call
                 )
+                
 
             except (ValidationError, ValueError):
                 from langchain_core.messages import ToolMessage
